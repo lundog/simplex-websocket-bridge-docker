@@ -173,7 +173,7 @@ a download with an atomic `tmp` → `inbound` rename that fails across mounts).
 > **`human` mode note:** there's no CLI flag to create a non-bot profile
 > headlessly, so on first boot `human` mode answers simplex-chat's interactive
 > display-name prompt over stdin. This is verified to work on `simplex-chat
-> v6.5.6`; if a future version changes the first-run prompt, `human`-mode profile
+> v7.0.0`; if a future version changes the first-run prompt, `human`-mode profile
 > creation may need revisiting.
 
 ## Build and run
